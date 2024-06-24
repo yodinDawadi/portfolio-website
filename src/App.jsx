@@ -33,7 +33,6 @@ function App() {
   };
   return (
     <>
-
 <Navbar scrollToSection={scrollToSection}/>
 <Home refProp={homeRef}/>
 <About refProp={aboutRef}/>
